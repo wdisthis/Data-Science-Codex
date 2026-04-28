@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "d5bb4329465998d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "892be51652664320",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ce5270de88ffbb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 Home.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00 Home"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aa81693154af0e4b",
+    "type": "split",
+    "children": [
+      {
+        "id": "3395fbd3498b89d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff2956346aabfcf2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2b9da8b17678e61c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "254d838d9a246093",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "94554e22e0eb1f7c",
+    "type": "split",
+    "children": [
+      {
+        "id": "0483adbcabb38132",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6e55826e7b9f407",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "kamus_sains_data.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for kamus_sains_data"
+            }
+          },
+          {
+            "id": "3831339f69c2150f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "kamus_sains_data.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from kamus_sains_data"
+            }
+          },
+          {
+            "id": "51dba7acbe048ed1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "569a0a0d5ba9d63d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "edbc93eab06fa247",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "kamus_sains_data.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of kamus_sains_data"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "1ce5270de88ffbb8",
+  "lastOpenFiles": [
+    "Hipotesis.md",
+    "00 Home.md",
+    "_arsip/Kompendium Genesis.md",
+    "14 Terminologi Umum/Feature.md",
+    "14 Terminologi Umum/_MOC Terminologi Umum.md",
+    "Untitled.md",
+    "14 Terminologi Umum/Loss Function.md",
+    "14 Terminologi Umum/Parameter.md",
+    "14 Terminologi Umum/Hyperparameter.md",
+    "14 Terminologi Umum/Inference.md",
+    "14 Terminologi Umum/Multivariate.md",
+    "14 Terminologi Umum/Multicollinearity.md",
+    "14 Terminologi Umum/Dimensionality.md",
+    "14 Terminologi Umum/Instance.md",
+    "14 Terminologi Umum/Label.md",
+    "10 Business Intelligence/CRISP-DM.md",
+    "05 Deep Learning/Epoch dan Batch Size.md",
+    "05 Deep Learning/Attention Mechanism.md",
+    "05 Deep Learning/Transformer.md",
+    "05 Deep Learning/GRU.md",
+    "05 Deep Learning/LSTM.md",
+    "05 Deep Learning/RNN.md",
+    "05 Deep Learning/CNN.md",
+    "05 Deep Learning/Dropout.md",
+    "05 Deep Learning/Batch Normalization.md",
+    "05 Deep Learning/Backpropagation.md"
+  ]
+}
