@@ -567,11 +567,7 @@ File kosong dengan frontmatter, ringkasan kosong, dan backlink yang sudah diisi.
 ## User Review Required
 
 > [!IMPORTANT]
-> **Keputusan yang perlu Anda buat:**
-> 1. **Bahasa konten:** Apakah konten ditulis dalam **Bahasa Indonesia** (seperti kamus lama) atau **campuran** (istilah Inggris, penjelasan Indonesia)?
-> 2. **File lama:** Apakah `kamus_sains_data.md` dipindah ke `_arsip/` atau dihapus?
-> 3. **Struktur folder:** Apakah ada folder/topik yang ingin ditambah atau dihilangkan?
-> 4. **Jumlah file:** ~230 file total — apakah ini level yang diinginkan?
+
 
 ---
 

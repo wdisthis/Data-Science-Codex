@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Home.md",
-                "mode": "source",
-                "source": false
+                "file": "01 Statistika & Matematika/P-Value.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "00 Home"
+              "title": "P-Value"
             }
           }
         ]
@@ -185,9 +185,20 @@
   },
   "active": "1ce5270de88ffbb8",
   "lastOpenFiles": [
-    "Hipotesis.md",
     "00 Home.md",
+    "implementation_plan.md",
+    "Hipotesis.md",
     "_arsip/Kompendium Genesis.md",
+    "01 Statistika & Matematika/P-Value.md",
+    "2026-04-28.md",
+    "01 Statistika & Matematika/_MOC Statistika & Matematika.md",
+    "README.md",
+    "11 MLOps & Deployment/Streamlit.md",
+    "09 Visualisasi Data/Dashboard.md",
+    "09 Visualisasi Data/Power BI.md",
+    "09 Visualisasi Data/Tableau.md",
+    "05 Deep Learning/LSTM.md",
+    "01 Statistika & Matematika/Aljabar Linear.md",
     "14 Terminologi Umum/Feature.md",
     "14 Terminologi Umum/_MOC Terminologi Umum.md",
     "Untitled.md",
@@ -199,17 +210,6 @@
     "14 Terminologi Umum/Multicollinearity.md",
     "14 Terminologi Umum/Dimensionality.md",
     "14 Terminologi Umum/Instance.md",
-    "14 Terminologi Umum/Label.md",
-    "10 Business Intelligence/CRISP-DM.md",
-    "05 Deep Learning/Epoch dan Batch Size.md",
-    "05 Deep Learning/Attention Mechanism.md",
-    "05 Deep Learning/Transformer.md",
-    "05 Deep Learning/GRU.md",
-    "05 Deep Learning/LSTM.md",
-    "05 Deep Learning/RNN.md",
-    "05 Deep Learning/CNN.md",
-    "05 Deep Learning/Dropout.md",
-    "05 Deep Learning/Batch Normalization.md",
-    "05 Deep Learning/Backpropagation.md"
+    "14 Terminologi Umum/Label.md"
   ]
 }
