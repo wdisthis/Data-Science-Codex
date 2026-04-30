@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08 SQL & Database/MySQL.md",
+                "file": "08 SQL & Database/CREATE TABLE.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MySQL"
+              "title": "CREATE TABLE"
             }
           }
         ],
@@ -196,6 +196,8 @@
   },
   "active": "74723b5a9b20086d",
   "lastOpenFiles": [
+    "08 SQL & Database/Data Definition Language.md",
+    "08 SQL & Database/MySQL.md",
     "08 SQL & Database/_MOC SQL.md",
     "08 SQL & Database/CREATE TABLE.md",
     "_arsip/Kompendium Genesis.md",
@@ -220,8 +222,6 @@
     "14 Terminologi Umum/Feature.md",
     "14 Terminologi Umum/_MOC Terminologi Umum.md",
     "Untitled.md",
-    "14 Terminologi Umum/Loss Function.md",
-    "14 Terminologi Umum/Parameter.md",
-    "14 Terminologi Umum/Hyperparameter.md"
+    "14 Terminologi Umum/Loss Function.md"
   ]
 }

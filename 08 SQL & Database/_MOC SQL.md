@@ -5,12 +5,24 @@ tags:
 date: 2026-04-28
 ---
 
-# ðŸ—„ï¸ SQL & Database
+# 📂 SQL & Database
 
 > Map of Content untuk SQL query, database management, dan data warehousing.
 
-## ðŸ“ SQL Query Dasar
+## 🔑 Dasar-Dasar SQL
+- [[SQL]]
+- [[Data Definition Language]] (DDL)
+- [[Data Manipulation Language]] (DML)
+
+## 🏗️ Struktur & Skema (DDL)
+- [[CREATE TABLE]]
+- [[ALTER]]
+- [[DROP]]
+- [[TRUNCATE]]
+
+## 🔍 Manipulasi Data (DML)
 - [[SELECT]]
+- [[INSERT UPDATE DELETE]]
 - [[WHERE]]
 - [[ORDER BY]]
 - [[GROUP BY]]
@@ -18,31 +30,27 @@ date: 2026-04-28
 - [[JOIN]]
 - [[UNION]]
 
-## ðŸ”¬ SQL Lanjutan
+## 🚀 SQL Lanjutan
 - [[Subquery]]
 - [[CTE]]
 - [[Window Function]]
-- [[INSERT UPDATE DELETE]]
-- [[CREATE TABLE]]
 
-## ðŸ—ï¸ Database Design
+## 🏗️ Database Design
 - [[Index Database]]
 - [[Normalisasi Database]]
 - [[Primary Key dan Foreign Key]]
 - [[ACID]]
 - [[Transaction]]
 
-## ðŸ˜ RDBMS
+## 🏛️ RDBMS & NoSQL
 - [[PostgreSQL]]
 - [[MySQL]]
 - [[SQLite]]
-
-## ðŸƒ NoSQL
 - [[NoSQL]]
 - [[MongoDB]]
 - [[Redis]]
 
-## ðŸ­ Data Architecture
+## 🏭 Data Architecture
 - [[Data Warehouse]]
 - [[Data Lake]]
 - [[ETL]]
@@ -52,3 +60,10 @@ date: 2026-04-28
 ## Status
 | Konsep | Status |
 |--------|--------|
+| [[SQL]] | ✅ complete |
+| [[Data Definition Language]] | ✅ complete |
+| [[Data Manipulation Language]] | ✅ complete |
+| [[ALTER]] | ✅ complete |
+| [[CREATE TABLE]] | ✅ complete |
+| [[DROP]] | ✅ complete |
+| [[TRUNCATE]] | ✅ complete |

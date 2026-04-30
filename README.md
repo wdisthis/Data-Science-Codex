@@ -1,4 +1,4 @@
-# 🧠 Data Science Codex — Obsidian Vault Wiki
+# Data Science Codex — Obsidian Vault Wiki
 
 Selamat datang di **Data Science Codex**, sebuah basis pengetahuan (*knowledge base*) komprehensif mengenai Data Science yang disusun menggunakan metode **Zettelkasten** dan **MOC (Map of Content)** di dalam **Obsidian**.
 
@@ -6,7 +6,7 @@ Proyek ini mentransformasi catatan monolitik menjadi jaringan konsep atomik yang
 
 ---
 
-## 📋 Daftar Isi (MOC)
+## Daftar Isi (MOC)
 
 Vault ini dibagi menjadi 14 kategori utama yang mencakup seluruh spektrum Data Science:
 
@@ -29,7 +29,7 @@ Vault ini dibagi menjadi 14 kategori utama yang mencakup seluruh spektrum Data S
 
 ---
 
-## 📂 Struktur Direktori
+## Struktur Direktori
 
 ```text
 Data-Science-Codex/
@@ -374,7 +374,7 @@ Data-Science-Codex/
 
 ---
 
-## 🚀 Cara Membuka (Via Obsidian)
+## Cara Membuka (Via Obsidian)
 
 Untuk mendapatkan pengalaman terbaik (grafik koneksi, backlink, dan navigasi otomatis), sangat disarankan membuka folder ini menggunakan **Obsidian**.
 
@@ -391,7 +391,7 @@ Untuk mendapatkan pengalaman terbaik (grafik koneksi, backlink, dan navigasi oto
 
 ---
 
-## ✨ Fitur Utama
+## Fitur Utama
 
 -   **Atomic Notes**: Setiap konsep dijelaskan dalam satu file terpisah untuk fokus maksimal.
 -   **Wikilinks**: Navigasi antar konsep menggunakan `[[Nama Konsep]]`.
@@ -401,7 +401,7 @@ Untuk mendapatkan pengalaman terbaik (grafik koneksi, backlink, dan navigasi oto
 
 ---
 
-## 🏷️ Taksonomi Tag
+## Taksonomi Tag
 
 Proyek ini menggunakan tag hierarkis untuk mempermudah pencarian dan pengelompokan otomatis:
 
@@ -413,7 +413,7 @@ Proyek ini menggunakan tag hierarkis untuk mempermudah pencarian dan pengelompok
 
 ---
 
-## 🔗 Link Penting
+## Link Penting
 
 -   **Official Website**: [Obsidian.md](https://obsidian.md/)
 -   **Dokumentasi Obsidian**: [Obsidian Help](https://help.obsidian.md/)
