@@ -26,6 +26,7 @@ Vault ini dibagi menjadi 14 kategori utama yang mencakup seluruh spektrum Data S
 | 12 | **Linux & DevOps** | Terminal, bash, konfigurasi server, WSL |
 | 13 | **Pengembangan Aplikasi** | Git, web dev, metodologi agile |
 | 14 | **Terminologi Umum** | Glosarium istilah-istilah umum sains data |
+| 15 | **R & RStudio** | Statistika, RMarkdown, Tidyverse, ggplot2 |
 
 ---
 
@@ -35,7 +36,7 @@ Vault ini dibagi menjadi 14 kategori utama yang mencakup seluruh spektrum Data S
 Data-Science-Codex/
 ├── 00 Home.md                          ← Hub utama, pintu masuk ke semua MOC
 ├── _arsip/
-│   └── kamus_sains_data.md             ← File lama dipindah ke sini
+│   └── Kompendium Genesis.md           ← File monolitik asli
 ├── _templates/
 │   ├── Template Istilah.md
 │   └── Template MOC.md
@@ -233,6 +234,9 @@ Data-Science-Codex/
 │
 ├── 08 SQL & Database/
 │   ├── _MOC SQL.md
+│   ├── SQL.md
+│   ├── Data Definition Language.md
+│   ├── Data Manipulation Language.md
 │   ├── SELECT.md                       ← stub
 │   ├── WHERE.md                        ← stub
 │   ├── JOIN.md                         ← stub
@@ -243,8 +247,11 @@ Data-Science-Codex/
 │   ├── CTE.md                          ← stub
 │   ├── Window Function.md             ← stub
 │   ├── UNION.md                        ← stub
-│   ├── INSERT UPDATE DELETE.md         ← stub
-│   ├── CREATE TABLE.md                ← stub
+│   ├── INSERT UPDATE DELETE.md
+│   ├── CREATE TABLE.md
+│   ├── ALTER.md
+│   ├── DROP.md
+│   ├── TRUNCATE.md
 │   ├── Index Database.md              ← stub
 │   ├── Normalisasi Database.md        ← stub
 │   ├── Primary Key dan Foreign Key.md ← stub
@@ -366,8 +373,18 @@ Data-Science-Codex/
 │   ├── Inference.md
 │   ├── Hyperparameter.md
 │   ├── Parameter.md
-│   ├── Epoch dan Batch Size.md        (shared with Deep Learning)
 │   └── Multivariate.md
+│
+├── 15 R & RStudio/
+│   ├── _MOC R & RStudio.md
+│   ├── R Basics.md                    ← stub
+│   ├── RStudio.md                     ← stub
+│   ├── Tidyverse.md                   ← stub
+│   ├── ggplot2.md                     ← stub
+│   ├── dplyr.md                       ← stub
+│   ├── R Markdown.md                  ← stub
+│   ├── Data Types R.md                ← stub
+│   └── Data Frame R.md                ← stub
 │
 └── .obsidian/
 ```

@@ -37,6 +37,7 @@ date: 2026-04-28
 | 07  | [[_MOC Python]]           | Python, library data science, coding patterns |
 | 08  | [[_MOC SQL]]              | Query, database, data warehouse               |
 | 09  | [[_MOC Visualisasi Data]] | Chart types, tools, dashboard                 |
+| 15  | [[_MOC R & RStudio]]      | Statistika, RMarkdown, Tidyverse              |
 
 ### Bisnis & Produksi
 | # | Topik | Deskripsi |
@@ -70,7 +71,7 @@ date: 2026-04-28
 
 ## Statistik Vault
 
-- **Folder:** 14 kategori + arsip + templates
+- **Folder:** 15 kategori + arsip + templates
 - **Dibuat:** 2026-04-28
 - **Sumber awal:** [[Kompendium Genesis]]
 
