@@ -5,15 +5,18 @@ tags:
 date: 2026-04-28
 ---
 
-# ðŸ Python & Coding
+# 🐍 Python & Coding
 
 > Map of Content untuk bahasa Python, library, dan pola pemrograman.
 
-## ðŸ”¤ Python Dasar
+## 🔡 Python Dasar
 - [[Python Basics]]
 - [[Data Types Python]]
 - [[List Comprehension]]
 - [[Lambda Function]]
+- [[Args and Kwargs]]
+- [[Functional Programming]]
+- [[Higher-Order Functions]]
 - [[Decorator]]
 - [[Generator]]
 - [[OOP Python]]
@@ -23,13 +26,13 @@ date: 2026-04-28
 - [[JSON Handling]]
 - [[Type Hints]]
 
-## ðŸ“¦ Environment & Tools
+## 📦 Environment & Tools
 - [[Virtual Environment]]
 - [[Pip]]
 - [[Conda]]
 - [[Jupyter Notebook]]
 
-## ðŸ“Š Library Data Science
+## 📊 Library Data Science
 - [[Pandas]]
 - [[NumPy]]
 - [[Scikit-Learn]]
@@ -37,16 +40,16 @@ date: 2026-04-28
 - [[Statsmodels]]
 - [[XGBoost Library]]
 
-## ðŸ“ˆ Library Visualisasi
+## 📈 Library Visualisasi
 - [[Matplotlib]]
 - [[Seaborn]]
 
-## ðŸ§  Library Deep Learning
+## 🧠 Library Deep Learning
 - [[TensorFlow]]
 - [[PyTorch]]
 - [[Keras]]
 
-## ðŸŒ Library Web & Scraping
+## 🌐 Library Web & Scraping
 - [[Web Scraping]]
 - [[Beautiful Soup]]
 - [[Requests Library]]
@@ -54,3 +57,7 @@ date: 2026-04-28
 ## Status
 | Konsep | Status |
 |--------|--------|
+| Decorator | ✅ Complete |
+| Args and Kwargs | ✅ Complete |
+| Functional Programming | ✅ Complete |
+| Higher-Order Functions | ✅ Complete |

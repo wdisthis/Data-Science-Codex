@@ -206,7 +206,10 @@ Data-Science-Codex/
 │   ├── Data Types Python.md           ← stub
 │   ├── List Comprehension.md          ← stub
 │   ├── Lambda Function.md             ← stub
-│   ├── Decorator.md                    ← stub
+│   ├── Args and Kwargs.md
+│   ├── Functional Programming.md
+│   ├── Higher-Order Functions.md
+│   ├── Decorator.md
 │   ├── Generator.md                    ← stub
 │   ├── OOP Python.md                  ← stub
 │   ├── Exception Handling.md          ← stub
