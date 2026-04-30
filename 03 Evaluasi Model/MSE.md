@@ -13,7 +13,7 @@ status: complete
 
 ## Rumus
 
-`MSE = SUM((yi - yi_hat)^2) / n`
+
 $$MSE = \frac{1}{n} \sum_{i=1}^{n} (y_i - \hat{y}_i)^2$$
 ## Hubungan dengan Konsep Lain
 

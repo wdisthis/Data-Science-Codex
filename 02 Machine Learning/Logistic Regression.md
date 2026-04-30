@@ -14,7 +14,7 @@ status: complete
 
 ## Fungsi Sigmoid
 
-`sigma(z) = 1 / (1 + e^(-z))` â†’ menghasilkan probabilitas 0-1
+$$\sigma(z) = \frac{1}{1 + e^{-z}}$$
 
 > [!NOTE]
 > Namanya menyesatkan â€” ini adalah algoritma **klasifikasi**, bukan regresi.

@@ -27,6 +27,7 @@ Vault ini dibagi menjadi 14 kategori utama yang mencakup seluruh spektrum Data S
 | 13 | **Pengembangan Aplikasi** | Git, web dev, metodologi agile |
 | 14 | **Terminologi Umum** | Glosarium istilah-istilah umum sains data |
 | 15 | **R & RStudio** | Statistika, RMarkdown, Tidyverse, ggplot2 |
+| 16 | **Algoritma & Strategi** | Desain algoritma, Big O, Greedy, DP, Searching |
 
 ---
 
@@ -385,6 +386,17 @@ Data-Science-Codex/
 │   ├── R Markdown.md                  ← stub
 │   ├── Data Types R.md                ← stub
 │   └── Data Frame R.md                ← stub
+│
+├── 16 Algoritma & Strategi/
+│   ├── _MOC Algoritma.md
+│   ├── Kompleksitas Algoritma.md       ← stub
+│   ├── Brute Force.md                  ← stub
+│   ├── Greedy Algorithm.md             ← stub
+│   ├── Divide and Conquer.md           ← stub
+│   ├── Dynamic Programming.md          ← stub
+│   ├── Backtracking.md                 ← stub
+│   ├── Searching & Sorting.md          ← stub
+│   └── Recursive Algorithm.md          ← stub
 │
 └── .obsidian/
 ```

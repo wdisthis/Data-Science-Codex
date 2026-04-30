@@ -15,7 +15,7 @@ status: complete
 
 ## Rumus
 
-`sigma = sqrt(Var(X))`
+
 $$\sigma = \sqrt{\frac{\sum (x_i - \bar{x})^2}{n}}$$
 
 ## Interpretasi

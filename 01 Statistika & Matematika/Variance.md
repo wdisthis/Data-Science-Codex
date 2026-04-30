@@ -13,7 +13,7 @@ status: complete
 
 ## Rumus
 
-`Var(X) = sigma^2 = SUM(xi - mu)^2 / N`
+$$\sigma^2 = \frac{\sum (x_i - \mu)^2}{N}$$
 
 - Untuk **populasi:** bagi dengan N
 - Untuk **sampel:** bagi dengan N-1 (koreksi Bessel)

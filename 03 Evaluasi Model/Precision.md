@@ -13,7 +13,7 @@ status: complete
 
 ## Rumus
 
-`Precision = TP / (TP + FP)`
+$$Precision = \frac{TP}{TP + FP}$$
 
 ## Kapan Digunakan
 

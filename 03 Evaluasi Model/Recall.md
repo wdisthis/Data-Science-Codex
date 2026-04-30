@@ -15,7 +15,7 @@ status: complete
 
 ## Rumus
 
-`Recall = TP / (TP + FN)`
+$$Recall = \frac{TP}{TP + FN}$$
 
 ## Kapan Digunakan
 

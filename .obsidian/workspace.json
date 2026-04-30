@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Statistika & Matematika/Standard Deviation.md",
+                "file": "01 Statistika & Matematika/Variance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Standard Deviation"
+              "title": "Variance"
             }
           }
         ]
@@ -185,12 +185,26 @@
   },
   "active": "74723b5a9b20086d",
   "lastOpenFiles": [
+    "16 Algoritma & Strategi/Recursive Algorithm.md",
+    "16 Algoritma & Strategi/Searching & Sorting.md",
+    "16 Algoritma & Strategi/Backtracking.md",
+    "16 Algoritma & Strategi/Dynamic Programming.md",
+    "16 Algoritma & Strategi/Divide and Conquer.md",
+    "16 Algoritma & Strategi/Greedy Algorithm.md",
+    "16 Algoritma & Strategi/Brute Force.md",
+    "16 Algoritma & Strategi/Kompleksitas Algoritma.md",
+    "16 Algoritma & Strategi/_MOC Algoritma.md",
+    "16 Algoritma & Strategi",
+    "01 Statistika & Matematika/Standard Deviation.md",
+    "04 Feature Engineering & Data Preprocessing/Normalisasi vs Standarisasi.md",
+    "04 Feature Engineering & Data Preprocessing/_MOC Feature Engineering.md",
+    "00 Home.md",
+    "03 Evaluasi Model/Bayesian Optimization.md",
     "03 Evaluasi Model/F1-Score.md",
     "03 Evaluasi Model/Accuracy.md",
     "03 Evaluasi Model/MSE.md",
     "02 Machine Learning/Linear Regression.md",
     "01 Statistika & Matematika/Teorema Bayes.md",
-    "01 Statistika & Matematika/Standard Deviation.md",
     "01 Statistika & Matematika/Hipotesis.md",
     "01 Statistika & Matematika/P-Value.md",
     "fix_encoding.py",
@@ -199,19 +213,6 @@
     "08 SQL & Database/Normalisasi Database.md",
     "08 SQL & Database/CREATE TABLE.md",
     "08 SQL & Database/Data Definition Language.md",
-    "15 R & RStudio/tidyr.md",
-    "_arsip/Kompendium Genesis.md",
-    "15 R & RStudio/_MOC R & RStudio.md",
-    "R Basics.md",
-    "15 R & RStudio/Data Frame R.md",
-    "15 R & RStudio/Data Types R.md",
-    "15 R & RStudio/R Markdown.md",
-    "15 R & RStudio/dplyr.md",
-    "15 R & RStudio/ggplot2.md",
-    "15 R & RStudio/Tidyverse.md",
-    "15 R & RStudio/RStudio.md",
-    "15 R & RStudio/R Basics.md",
-    "Linear Model di R.md",
     "15 R & RStudio",
     "Untitled.canvas"
   ]

@@ -50,6 +50,7 @@ date: 2026-04-28
 |---|-------|-----------|
 | 12 | [[_MOC Linux]] | Terminal, bash, konfigurasi server |
 | 13 | [[_MOC Pengembangan Aplikasi]] | Git, web dev, metodologi |
+| 16 | [[_MOC Algoritma]] | Algorithmic strategies, Big O, complexity |
 
 ### Referensi
 | # | Topik | Deskripsi |
@@ -60,21 +61,21 @@ date: 2026-04-28
 
 ## Cara Menggunakan Vault Ini
 
-1. **Navigasi via MOC** â€” Klik topik di tabel di atas
-2. **Graph View** â€” Gunakan Ctrl+G untuk melihat peta koneksi
-3. **Search** â€” Ctrl+Shift+F untuk pencarian global
-4. **Tags** â€” Klik tag di sidebar untuk filter berdasarkan kategori
-5. **Backlinks** â€” Lihat panel backlinks di setiap halaman
+1. **Navigasi via MOC** — Klik topik di tabel di atas
+2. **Graph View** — Gunakan Ctrl+G untuk melihat peta koneksi
+3. **Search** — Ctrl+Shift+F untuk pencarian global
+4. **Tags** — Klik tag di sidebar untuk filter berdasarkan kategori
+5. **Backlinks** — Lihat panel backlinks di setiap halaman
 6. **Status file:**
    - `status: complete` = sudah diisi lengkap
    - `status: stub` = belum diisi, placeholder
 
 ## Statistik Vault
 
-- **Folder:** 15 kategori + arsip + templates
+- **Folder:** 16 kategori + arsip + templates
 - **Dibuat:** 2026-04-28
 - **Sumber awal:** [[Kompendium Genesis]]
 
 ---
 
-> *"The palest ink is better than the best memory." â€” Pepatah Tiongkok*
+> *"The palest ink is better than the best memory." — Pepatah Tiongkok*
