@@ -13,7 +13,9 @@ status: stub
 
 ## Definisi
 
-*(topik ini belum ditulis â€” akan diisi nanti)*
+*(topik ini belum ditulis — akan diisi nanti)*
+
+- $$P(A|B) = \frac{P(B|A) \cdot P(A)}{P(B)}$$
 
 ## Hubungan dengan Konsep Lain
 - [[Probabilitas]]

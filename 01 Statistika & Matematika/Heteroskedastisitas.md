@@ -9,7 +9,7 @@ status: complete
 
 # Heteroskedastisitas
 
-> **Ringkasan:** Variance residual tidak konstan â€” melanggar asumsi [[Linear Regression]].
+> **Ringkasan:** Variance residual tidak konstan — melanggar asumsi [[Linear Regression]].
 
 ## Dampak
 

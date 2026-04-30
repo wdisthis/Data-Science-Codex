@@ -13,7 +13,7 @@ status: stub
 
 ## Definisi
 
-*(topik ini belum ditulis â€” akan diisi nanti)*
+*(topik ini belum ditulis — akan diisi nanti)*
 
 ## Hubungan dengan Konsep Lain
 - [[Teorema Bayes]]

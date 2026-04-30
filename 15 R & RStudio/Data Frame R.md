@@ -1,4 +1,4 @@
----
+﻿---
 tags:
   - r
 aliases: []
@@ -12,7 +12,7 @@ status: stub
 
 ## Definisi
 
-*(topik ini belum ditulis � akan diisi nanti)*
+*(topik ini belum ditulis — akan diisi nanti)*
 
 ## Hubungan dengan Konsep Lain
 - Terkait: [[_MOC R & RStudio]]

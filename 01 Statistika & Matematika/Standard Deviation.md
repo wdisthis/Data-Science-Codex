@@ -11,11 +11,12 @@ status: complete
 
 # Standard Deviation
 
-> **Ringkasan:** Akar dari [[Variance]] â€” mengukur sebaran data dalam satuan yang sama dengan data asli.
+> **Ringkasan:** Akar dari [[Variance]] — mengukur sebaran data dalam satuan yang sama dengan data asli.
 
 ## Rumus
 
 `sigma = sqrt(Var(X))`
+$$\sigma = \sqrt{\frac{\sum (x_i - \bar{x})^2}{n}}$$
 
 ## Interpretasi
 

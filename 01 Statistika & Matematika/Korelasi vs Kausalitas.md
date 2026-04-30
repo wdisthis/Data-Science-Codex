@@ -18,7 +18,7 @@ status: complete
 
 ## Contoh Klasik
 
-Es krim terjual dan kasus tenggelam berkorelasi â†’ keduanya disebabkan oleh musim panas (variabel konfounding).
+Es krim terjual dan kasus tenggelam berkorelasi → keduanya disebabkan oleh musim panas (variabel konfounding).
 
 > [!IMPORTANT]
 > Korelasi TIDAK menyiratkan kausalitas. Selalu pertimbangkan variabel konfounding.

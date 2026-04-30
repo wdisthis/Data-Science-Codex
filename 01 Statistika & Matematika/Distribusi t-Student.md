@@ -14,8 +14,8 @@ status: complete
 
 ## Ciri Khas
 
-- Semakin besar degrees of freedom â†’ mendekati [[Distribusi Normal]]
-- Ekor lebih tebal dari normal â†’ lebih konservatif
+- Semakin besar degrees of freedom → mendekati [[Distribusi Normal]]
+- Ekor lebih tebal dari normal → lebih konservatif
 
 ## Digunakan Dalam
 

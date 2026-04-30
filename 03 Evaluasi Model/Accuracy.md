@@ -14,6 +14,7 @@ status: complete
 ## Rumus
 
 `Accuracy = (TP + TN) / Total`
+$$Accuracy = \frac{TP + TN}{TP + TN + FP + FN}$$
 
 ## Kapan Digunakan
 

@@ -18,11 +18,11 @@ Confidence Interval (CI) adalah rentang estimasi untuk parameter populasi. CI 95
 
 ## Contoh
 
-CI 95% untuk rata-rata = [68, 72] â†’ kita 95% yakin rata-rata populasi ada di antara 68 dan 72.
+CI 95% untuk rata-rata = [68, 72] → kita 95% yakin rata-rata populasi ada di antara 68 dan 72.
 
 ## Hubungan dengan P-Value
 
-Jika CI 95% **tidak mencakup 0** â†’ sama dengan [[P-Value]] < 0.05.
+Jika CI 95% **tidak mencakup 0** → sama dengan [[P-Value]] < 0.05.
 
 ## Hubungan dengan Konsep Lain
 

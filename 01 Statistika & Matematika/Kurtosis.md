@@ -7,7 +7,7 @@ status: complete
 
 # Kurtosis
 
-> **Ringkasan:** Mengukur ketebalan ekor distribusi â€” seberapa sering outlier muncul.
+> **Ringkasan:** Mengukur ketebalan ekor distribusi — seberapa sering outlier muncul.
 
 ## Tipe
 

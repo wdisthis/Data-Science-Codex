@@ -22,7 +22,7 @@ status: complete
 
 ## Power of Test
 
-**Power = 1 - beta** â†’ Kemampuan uji mendeteksi efek nyata. Makin besar, makin baik.
+**Power = 1 - beta** → Kemampuan uji mendeteksi efek nyata. Makin besar, makin baik.
 
 ## Analogi
 

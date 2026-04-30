@@ -16,6 +16,8 @@ status: complete
 
 `y = beta_0 + beta_1*x_1 + beta_2*x_2 + ... + epsilon`
 
+$$\hat{y} = \beta_0 + \beta_1x_1 + \beta_2x_2 + ... + \epsilon$$
+
 ## Asumsi
 
 1. Linearitas

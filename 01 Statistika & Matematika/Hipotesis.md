@@ -16,8 +16,8 @@ status: complete
 
 ## Definisi
 
-- **H0 (Null Hypothesis):** Asumsi awal â€” biasanya menyatakan tidak ada efek atau tidak ada perbedaan.
-- **H1 (Alternative Hypothesis):** Pernyataan yang ingin dibuktikan â€” kebalikan dari H0.
+- **H0 (Null Hypothesis):** Asumsi awal — biasanya menyatakan tidak ada efek atau tidak ada perbedaan.
+- **H1 (Alternative Hypothesis):** Pernyataan yang ingin dibuktikan — kebalikan dari H0.
 
 ## Contoh
 
@@ -32,7 +32,7 @@ status: complete
 2. Pilih tingkat signifikansi (alpha, biasanya 0.05)
 3. Hitung statistik uji ([[T-Test]], [[ANOVA]], dll.)
 4. Hitung [[P-Value]]
-5. Bandingkan p-value dengan alpha â†’ tolak atau gagal tolak H0
+5. Bandingkan p-value dengan alpha → tolak atau gagal tolak H0
 
 ## Hubungan dengan Konsep Lain
 

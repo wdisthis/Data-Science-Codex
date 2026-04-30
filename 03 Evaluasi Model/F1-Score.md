@@ -15,7 +15,7 @@ status: complete
 ## Rumus
 
 `F1 = 2 * (Precision * Recall) / (Precision + Recall)`
-
+- $$F1 = 2 \cdot \frac{Precision \cdot Recall}{Precision + Recall}$$
 ## Kapan Digunakan
 
 Data **tidak seimbang** ([[Class Imbalance]]) di mana [[Accuracy]] bisa menyesatkan.

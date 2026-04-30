@@ -9,7 +9,7 @@ status: complete
 
 # Variance
 
-> **Ringkasan:** Rata-rata kuadrat selisih setiap titik data dari mean â€” mengukur sebaran data.
+> **Ringkasan:** Rata-rata kuadrat selisih setiap titik data dari mean — mengukur sebaran data.
 
 ## Rumus
 

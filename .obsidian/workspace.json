@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "15 R & RStudio/_MOC R & RStudio.md",
+                "file": "01 Statistika & Matematika/Standard Deviation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_MOC R & RStudio"
+              "title": "Standard Deviation"
             }
           }
         ]
@@ -185,8 +185,24 @@
   },
   "active": "74723b5a9b20086d",
   "lastOpenFiles": [
-    "R Basics.md",
+    "03 Evaluasi Model/F1-Score.md",
+    "03 Evaluasi Model/Accuracy.md",
+    "03 Evaluasi Model/MSE.md",
+    "02 Machine Learning/Linear Regression.md",
+    "01 Statistika & Matematika/Teorema Bayes.md",
+    "01 Statistika & Matematika/Standard Deviation.md",
+    "01 Statistika & Matematika/Hipotesis.md",
+    "01 Statistika & Matematika/P-Value.md",
+    "fix_encoding.py",
+    "_templates/Template MOC.md",
+    "_templates/Template Istilah.md",
+    "08 SQL & Database/Normalisasi Database.md",
+    "08 SQL & Database/CREATE TABLE.md",
+    "08 SQL & Database/Data Definition Language.md",
+    "15 R & RStudio/tidyr.md",
+    "_arsip/Kompendium Genesis.md",
     "15 R & RStudio/_MOC R & RStudio.md",
+    "R Basics.md",
     "15 R & RStudio/Data Frame R.md",
     "15 R & RStudio/Data Types R.md",
     "15 R & RStudio/R Markdown.md",
@@ -196,22 +212,7 @@
     "15 R & RStudio/RStudio.md",
     "15 R & RStudio/R Basics.md",
     "Linear Model di R.md",
-    "Uji Statistik di R.md",
-    "readr.md",
-    "tidyr.md",
-    "dplyr.md",
-    "ggplot2.md",
-    "Tidyverse.md",
-    "Data Frame R.md",
-    "CRAN.md",
-    "R Markdown.md",
-    "RStudio.md",
-    "Data Types R.md",
-    "01 Statistika & Matematika/_MOC Statistika & Matematika.md",
-    "14 Terminologi Umum/_MOC Terminologi Umum.md",
-    "07 Python & Coding/Matplotlib.md",
     "15 R & RStudio",
-    "09 Visualisasi Data/Scatter Plot.md",
     "Untitled.canvas"
   ]
 }

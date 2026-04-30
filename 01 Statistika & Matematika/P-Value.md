@@ -19,14 +19,14 @@ P-value mengukur seberapa konsisten data yang diamati dengan [[Hipotesis]] nol. 
 
 ## Interpretasi
 
-- `p < 0.05` â†’ Tolak H0 (hasil dianggap signifikan secara statistik)
-- `p >= 0.05` â†’ Gagal tolak H0 (tidak cukup bukti melawan H0)
+- `p < 0.05` → Tolak H0 (hasil dianggap signifikan secara statistik)
+- `p >= 0.05` → Gagal tolak H0 (tidak cukup bukti melawan H0)
 
 > [!WARNING]
-> p-value **BUKAN** probabilitas bahwa H0 benar. Signifikansi statistik â‰  signifikansi praktis.
+> p-value **BUKAN** probabilitas bahwa H0 benar. Signifikansi statistik ≠ signifikansi praktis.
 
 ## Contoh
-Uji apakah rata-rata tinggi badan pria dan wanita berbeda â†’ p = 0.02 â†’ ada perbedaan signifikan.
+Uji apakah rata-rata tinggi badan pria dan wanita berbeda → p = 0.02 → ada perbedaan signifikan.
 
 ## Level Signifikansi ($\alpha$)
 P-value tidak berdiri sendiri. Ia selalu dibandingkan dengan **$\alpha$** (Alpha), yaitu ambang batas risiko yang siap Anda tanggung untuk melakukan _Type I Error_ (menolak $H_0$ padahal benar).
