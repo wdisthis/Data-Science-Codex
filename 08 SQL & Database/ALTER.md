@@ -74,4 +74,4 @@ ALTER TABLE transaksi RENAME TO sewa;
 - Digunakan di: [[Index Database]]
 
 ## Referensi
-- Materi Basis Data 2024/2025 - RA
+- Materi Basis Data 2024/2025

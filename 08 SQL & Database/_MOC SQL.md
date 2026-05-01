@@ -9,7 +9,8 @@ date: 2026-04-28
 
 > Map of Content untuk SQL query, database management, dan data warehousing.
 
-## 🔑 Dasar-Dasar SQL
+## 🔑 Dasar-Dasar SQL & Database
+- [[Sistem Manajemen Basis Data]]
 - [[SQL]]
 - [[Data Definition Language]] (DDL)
 - [[Data Manipulation Language]] (DML)
@@ -36,6 +37,7 @@ date: 2026-04-28
 - [[Window Function]]
 
 ## 🏗️ Database Design
+- [[Siklus Hidup Perancangan Basis Data]]
 - [[Index Database]]
 - [[Normalisasi Database]]
 - [[Primary Key dan Foreign Key]]
@@ -60,6 +62,8 @@ date: 2026-04-28
 ## Status
 | Konsep | Status |
 |--------|--------|
+| [[Sistem Manajemen Basis Data]] | ✅ complete |
+| [[Siklus Hidup Perancangan Basis Data]] | ✅ complete |
 | [[SQL]] | ✅ complete |
 | [[Data Definition Language]] | ✅ complete |
 | [[Data Manipulation Language]] | ✅ complete |
