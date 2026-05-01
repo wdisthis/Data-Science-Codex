@@ -14,6 +14,7 @@ date: 2026-04-30
 - [[Searching & Sorting]]
 
 ## 🛠️ Strategi Algoritma
+- [[Strategi Algoritma]]
 - [[Brute Force]]
 - [[Greedy Algorithm]]
 - [[Divide and Conquer]]
@@ -29,7 +30,8 @@ date: 2026-04-30
 ## Status
 | Konsep | Status |
 |--------|--------|
-| [[Kompleksitas Algoritma]] | 📝 stub |
+| [[Strategi Algoritma]] | ✅ complete |
+| [[Kompleksitas Algoritma]] | ✅ complete |
 | [[Greedy Algorithm]] | 📝 stub |
 | [[Dynamic Programming]] | 📝 stub |
 | [[Divide and Conquer]] | 📝 stub |
