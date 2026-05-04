@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07 Python & Coding/Conda.md",
+                "file": "07 Python & Coding/Python Built-in Functions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Conda"
+              "title": "Python Built-in Functions"
             }
           }
         ]
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -183,9 +184,29 @@
       "bases:Create new base": false
     }
   },
-  "active": "74723b5a9b20086d",
+  "active": "2b9da8b17678e61c",
   "lastOpenFiles": [
+    "Book/All 71 Python Built-in Functions Explained.pdf",
+    "Book",
+    "New folder",
+    "07 Python & Coding/_MOC Python.md",
+    "02 Machine Learning/Overfitting.md",
+    "02 Machine Learning/Decision Tree.md",
+    "07 Python & Coding/Python Basics.md",
+    "08 SQL & Database/Sistem Manajemen Basis Data.md",
+    "01 Statistika & Matematika/P-Value.md",
+    "01 Statistika & Matematika/Hipotesis.md",
+    "00 Home.md",
     "Struktur Direktori.md",
+    "implementation_plan.md",
+    "08 SQL & Database/ACID.md",
+    "08 SQL & Database/Transaction.md",
+    "08 SQL & Database/Data Manipulation Language.md",
+    "08 SQL & Database/_MOC SQL.md",
+    "08 SQL & Database/TRUNCATE.md",
+    "08 SQL & Database/Data Lake.md",
+    "08 SQL & Database/SQL.md",
+    "07 Python & Coding/Conda.md",
     "07 Python & Coding/Beautiful Soup.md",
     "07 Python & Coding/Args and Kwargs.md",
     "01 Statistika & Matematika/Variance.md",
@@ -193,26 +214,8 @@
     "16 Algoritma & Strategi/Searching & Sorting.md",
     "16 Algoritma & Strategi/Backtracking.md",
     "16 Algoritma & Strategi/Dynamic Programming.md",
-    "16 Algoritma & Strategi/Divide and Conquer.md",
-    "16 Algoritma & Strategi/Greedy Algorithm.md",
-    "16 Algoritma & Strategi/Brute Force.md",
-    "16 Algoritma & Strategi/Kompleksitas Algoritma.md",
-    "16 Algoritma & Strategi/_MOC Algoritma.md",
     "16 Algoritma & Strategi",
-    "01 Statistika & Matematika/Standard Deviation.md",
-    "04 Feature Engineering & Data Preprocessing/Normalisasi vs Standarisasi.md",
-    "04 Feature Engineering & Data Preprocessing/_MOC Feature Engineering.md",
-    "00 Home.md",
-    "03 Evaluasi Model/Bayesian Optimization.md",
-    "03 Evaluasi Model/F1-Score.md",
-    "03 Evaluasi Model/Accuracy.md",
-    "03 Evaluasi Model/MSE.md",
-    "02 Machine Learning/Linear Regression.md",
-    "01 Statistika & Matematika/Teorema Bayes.md",
-    "01 Statistika & Matematika/Hipotesis.md",
-    "01 Statistika & Matematika/P-Value.md",
     "fix_encoding.py",
-    "_templates/Template MOC.md",
     "15 R & RStudio",
     "Untitled.canvas"
   ]

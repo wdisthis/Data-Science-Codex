@@ -25,12 +25,12 @@ SQL digunakan untuk melakukan operasi **CRUD**:
 
 SQL dibagi menjadi beberapa kategori utama berdasarkan fungsinya:
 
-| Kategori | Kepanjangan | Fungsi | Perintah Utama |
-| :--- | :--- | :--- | :--- |
-| **DDL** | [[Data Definition Language]] | Mendefinisikan struktur database | `CREATE`, `ALTER`, `DROP`, `TRUNCATE` |
-| **DML** | [[Data Manipulation Language]] | Mengelola isi data dalam tabel | `INSERT`, `UPDATE`, `DELETE`, `SELECT` |
-| **DCL** | Data Control Language | Mengatur hak akses dan izin | `GRANT`, `REVOKE` |
-| **TCL** | Transaction Control Language | Mengelola transaksi database | `COMMIT`, `ROLLBACK`, `SAVEPOINT` |
+| Kategori | Kepanjangan                    | Fungsi                           | Perintah Utama                         |
+| :------- | :----------------------------- | :------------------------------- | :------------------------------------- |
+| **DDL**  | [[Data Definition Language]]   | Mendefinisikan struktur database | `CREATE`, `ALTER`, `DROP`, `TRUNCATE`  |
+| **DML**  | [[Data Manipulation Language]] | Mengelola isi data dalam tabel   | `INSERT`, `UPDATE`, `DELETE`, `SELECT` |
+| **DCL**  | Data Control Language          | Mengatur hak akses dan izin      | `GRANT`, `REVOKE`                      |
+| **TCL**  | Transaction Control Language   | Mengelola transaksi database     | `COMMIT`, `ROLLBACK`, `SAVEPOINT`      |
 
 ## Hubungan dengan Konsep Lain
 

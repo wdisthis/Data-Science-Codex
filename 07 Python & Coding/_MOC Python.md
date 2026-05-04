@@ -25,6 +25,8 @@ date: 2026-04-28
 - [[File IO Python]]
 - [[JSON Handling]]
 - [[Type Hints]]
+- [[Python Built-in Functions]]
+
 
 ## 📦 Environment & Tools
 - [[Virtual Environment]]
@@ -61,3 +63,4 @@ date: 2026-04-28
 | Args and Kwargs | ✅ Complete |
 | Functional Programming | ✅ Complete |
 | Higher-Order Functions | ✅ Complete |
+| Python Built-in Functions | ✅ Complete |

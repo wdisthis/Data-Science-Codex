@@ -5,23 +5,23 @@ tags:
 date: 2026-04-28
 ---
 
-# 📂 SQL & Database
+# SQL & Database
 
 > Map of Content untuk SQL query, database management, dan data warehousing.
 
-## 🔑 Dasar-Dasar SQL & Database
+## Dasar-Dasar SQL & Database
 - [[Sistem Manajemen Basis Data]]
 - [[SQL]]
 - [[Data Definition Language]] (DDL)
 - [[Data Manipulation Language]] (DML)
 
-## 🏗️ Struktur & Skema (DDL)
+## Struktur & Skema (DDL)
 - [[CREATE TABLE]]
 - [[ALTER]]
 - [[DROP]]
 - [[TRUNCATE]]
 
-## 🔍 Manipulasi Data (DML)
+## Manipulasi Data (DML)
 - [[SELECT]]
 - [[INSERT UPDATE DELETE]]
 - [[WHERE]]
@@ -31,12 +31,12 @@ date: 2026-04-28
 - [[JOIN]]
 - [[UNION]]
 
-## 🚀 SQL Lanjutan
+## SQL Lanjutan
 - [[Subquery]]
 - [[CTE]]
 - [[Window Function]]
 
-## 🏗️ Database Design
+## Database Design
 - [[Siklus Hidup Perancangan Basis Data]]
 - [[Index Database]]
 - [[Normalisasi Database]]
@@ -44,7 +44,7 @@ date: 2026-04-28
 - [[ACID]]
 - [[Transaction]]
 
-## 🏛️ RDBMS & NoSQL
+## RDBMS & NoSQL
 - [[PostgreSQL]]
 - [[MySQL]]
 - [[SQLite]]
@@ -52,7 +52,7 @@ date: 2026-04-28
 - [[MongoDB]]
 - [[Redis]]
 
-## 🏭 Data Architecture
+## Data Architecture
 - [[Data Warehouse]]
 - [[Data Lake]]
 - [[ETL]]
