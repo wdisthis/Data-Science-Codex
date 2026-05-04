@@ -34,7 +34,7 @@ Vault ini dibagi menjadi 14 kategori utama yang mencakup seluruh spektrum Data S
 ## Struktur Direktori
 
 Daftar lengkap file dan folder dalam proyek ini dapat dilihat di:
-👉 **[Struktur Direktori.md](Struktur%20Direktori.md)**
+ **[Struktur Direktori.md](Struktur%20Direktori.md)**
 
 ---
 
