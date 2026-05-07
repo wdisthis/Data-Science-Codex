@@ -323,7 +323,7 @@ Data-Science-Codex/
 │
 ├── 13 Pengembangan Aplikasi/
 │   ├── _MOC Pengembangan Aplikasi.md
-│   ├── Git.md                          ← stub
+│   ├── Git.md
 │   ├── GitHub.md                       ← stub
 │   ├── Git Branching.md               ← stub
 │   ├── Frontend Basics.md            ← stub
