@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08 SQL & Database/ACID.md",
+                "file": "13 Pengembangan Aplikasi/Git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ACID"
+              "title": "Git"
             }
           }
         ]
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -186,6 +185,7 @@
   },
   "active": "74723b5a9b20086d",
   "lastOpenFiles": [
+    "08 SQL & Database/ACID.md",
     "07 Python & Coding/Python Built-in Functions.md",
     "Book/All 71 Python Built-in Functions Explained.pdf",
     "Book",
@@ -200,7 +200,6 @@
     "00 Home.md",
     "Struktur Direktori.md",
     "implementation_plan.md",
-    "08 SQL & Database/ACID.md",
     "08 SQL & Database/Transaction.md",
     "08 SQL & Database/Data Manipulation Language.md",
     "08 SQL & Database/_MOC SQL.md",
