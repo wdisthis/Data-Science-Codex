@@ -1,4 +1,6 @@
 # Data Science Codex — Obsidian Vault Wiki
+![Obsidian](https://img.shields.io/badge/Made%20with-Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white)
+![Method](https://img.shields.io/badge/Method-Zettelkasten-orange?style=for-the-badge)
 
 Selamat datang di **Data Science Codex**, sebuah basis pengetahuan (*knowledge base*) komprehensif mengenai Data Science yang disusun menggunakan metode **Zettelkasten** dan **MOC (Map of Content)** di dalam **Obsidian**.
 
